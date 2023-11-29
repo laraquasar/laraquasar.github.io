@@ -5,21 +5,16 @@ layout: home
 hero:
   name: "LaraQuasar"
   text: "Support for Laravel + Quasar Framework"
-  tagline: My great project tagline
+  tagline: "Laravel + Quasar Framework in one place laravel 10.x support"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get Started
+      link: /guide/getting-started
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🔥
+    title: One Place Backend and Frontend
+    details: Powered By Inertia.js and Vite. no need to bother creating backend and frontend separately, now one source code is in one place
+
 ---
 
